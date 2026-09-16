@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Student Information</title>
-</head>
-<body>
-
-    <h1>Euri Villanueva</h1>
-    <p>Student Number: 202300546</p>
-    <p>Section: BSIT4-5</p>
-
-</body>
-</html>
+ITEC - 111 - ACTIVITIES
